@@ -21,6 +21,7 @@
    2. Install Visual Code
    3. Install Git
    4. Install Visual Studio Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools
+      
       a. Open The Downloaded "vs_BuildTools"
       b. Select Desktop Development with C++ and Select this:
       c. Windows 10 SDK or Windows 11 SDK (it depends on your computer windows version)
