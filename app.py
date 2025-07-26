@@ -77,7 +77,7 @@ You read uploaded PDF documents and explain them in simple, clear, and helpful F
 )
 
     st.set_page_config(page_title="CYAi", page_icon="Logo.png", layout="wide")
-    st.title("✨ CYAi ✨ (Still On Developments)")
+    st.title("✨ CYAi ✨ (Still In Developments)")
     st.write("Just upload PDF and start chatting ❕ 😀")
     st.divider()
 
