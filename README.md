@@ -1,6 +1,13 @@
 # ✍🏻📚🤖  **CYAi RAG-LLM** 🤖📚✍🏻 (Still On Developments)
+### 📍 Developers
+      1. Mr. Carl Jade Pabunan
+      2. Mr. Yousif Aboud Elsiddig
+      3. Mr. Arth Ruther Berango
+### 📍 Screenshot
 
-### 📍 Web Application Link: 
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/d6c21d49-dc7a-4714-afba-5e9e857dce3c" />
+
+### 📍 Web Application Link
       https://cyai-rag-llm.streamlit.app/
 ### 📍 What Is **CYAi**?
 - It is a chatbot uses _RAG-LLM_ technology focuses on developing students knowledge, students can upload PDF files and chat with CYAi about the PDF files they upload.
