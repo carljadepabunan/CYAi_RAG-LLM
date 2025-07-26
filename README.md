@@ -65,5 +65,5 @@ _**(Still In Developments)**_
       mkdir .streamlit
       move config.toml .\.streamlit
 ### 👉 G. Running The Main Application
-      streamlit run app.python
+      streamlit run app.py
 ### 👉 H. Upload choosen file and interact with the RAG-LLM.
