@@ -12,7 +12,7 @@
 # Settup Requirements
 - Python: 3.13.+ https://www.python.org/downloads/release/python-3130
 - Visual Studio Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools
-- Visual Studio Code: https://git-scm.com/downloads
+- Visual Studio Code: https://code.visualstudio.com/download
 - Git: https://git-scm.com/downloads
 
 # How To Settup And Use CYAi Offline
