@@ -2,7 +2,7 @@
 
 ### Web Application Link: 
       https://youparthai.streamlit.app/
-### What Is CYAi? :)
+### What Is CYAi?
 - It is a chatbot uses _RAG-LLM_ technology focuses on developing students knowledge, students can upload PDF files and chat with CYAi about the files they upload to CYAi.
 - CYAi means; C-carl, Y-yousif, A-arth, Ai-Artificial intelligence. Carl, Yousif, and Arth was the three programmers developed CYAi
 - fun fact: CYAi is our _AI6100-AI Prompt Engineering_ final project and it was inspired on one of the United Nation SDG which is Quality education.
