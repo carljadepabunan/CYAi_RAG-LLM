@@ -1,4 +1,4 @@
-# ✍🏻📚🤖  **CYAi RAG-LLM** 🤖📚✍🏻 (Still On Developments)
+# ✍🏻📚🤖  **CYAi RAG-LLM** 🤖📚✍🏻
 
 ### 📍 Screenshot
 
