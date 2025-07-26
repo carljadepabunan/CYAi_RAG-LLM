@@ -26,8 +26,8 @@
 - Torch: 🔥 A deep learning framework that supports tensor computations and is essential for running models from the Transformers library.
 - Sentence-Transformers: 🧠 A library for generating sentence embeddings, enhancing the chatbot's ability to understand and process user queries.
 - faiss-cpu: ⚙️ A library for efficient similarity search and clustering of dense vectors, improving the chatbot's performance in retrieving relevant information.
+- pyMuPDF: 📄 A library for reading and extracting text from PDF files, helping the application retrieve relevant information from user uploads.
 
-pyMuPDF: 📄 A library for reading and extracting text from PDF files, helping the application retrieve relevant information from user uploads.
 # 🟢 Settup Requirements
 - Python: 3.13.+ https://www.python.org/downloads/release/python-3130
 - Visual Studio Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools
