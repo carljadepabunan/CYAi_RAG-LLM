@@ -17,7 +17,7 @@
 - Git: https://git-scm.com/downloads
 
 # 🟢 How To Settup And Use CYAi Offline
-### A. Setting Up Desketop Computer
+### 👉 A. Setting Up Desketop Computer
    1. Install Python 3.13.5+
    2. Install Visual Code
    3. Install Git
@@ -28,24 +28,24 @@
                   - Windows 10 SDK or Windows 11 SDK (it depends on your computer windows version)
                   - MSVC v142 - VS 2019 C++ x64/x86 build tools (or later)
             e. Click Install
-### B. Cloning The Repository
+### 👉 B. Cloning The Repository
    1. Open Visual Studio Code
    2. Create Or Upload Folder
    3. Open Visual Studio Code Terminal, For Shortcut Type "CTRL + J"
    4. To Clone Repo Type:
 
             git clone https://github.com/carljadepabunan/CYAi_RAG-LLM.git
-### C. Get The API Key From Huggingchain
+### 👉 C. Get The API Key From Huggingchain
    1. Open This Link, Create Account And Create Access Key Or Token: https://huggingface.co
-### D. Creating And Activate Virtual Environment
+### 👉 D. Creating And Activate Virtual Environment
       cd CYAi_RAG-LLM
       python -m venv .venv
       .\.venv\Scripts\activate
-### E. Installing Require Dependencies
+### 👉 E. Installing Require Dependencies
       pip install -r requirements.txt
-### F. Enabling The Costum UI For Streamlit      
+### 👉 F. Enabling The Costum UI For Streamlit      
       mkdir .streamlit
       move config.toml .\.streamlit
-### G. Running The Main Application
+### 👉 G. Running The Main Application
       streamlit run app.python
-### H. Upload choosen file and interact with the RAG-LLM.
+### 👉 H. Upload choosen file and interact with the RAG-LLM.
