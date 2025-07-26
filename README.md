@@ -1,13 +1,13 @@
-# ✍🏻📚🤖  CYAi RAG-LLM 🤖📚✍🏻 (Still On Developments)
+# ✍🏻📚🤖  **CYAi RAG-LLM** 🤖📚✍🏻 (Still On Developments)
 
 ### Web Application Link: 
       https://cyai-rag-llm.streamlit.app/
-### What Is CYAi?
+### What Is **CYAi**?
 - It is a chatbot uses _RAG-LLM_ technology focuses on developing students knowledge, students can upload PDF files and chat with CYAi about the PDF files they upload.
 - CYAi means; C-carl, Y-yousif, A-arth, Ai-Artificial intelligence. Carl, Yousif, and Arth was the three programmers developed CYAi
-- fun fact: "CYAi is our _AI6100-AI Prompt Engineering Course "By AMA University"_ final project and it was inspired on one of the United Nation SDG which is Quality education."
+- **fun fact:** "CYAi is our _AI6100-AI Prompt Engineering Course "By AMA University"_ final project and it was inspired on one of the United Nation SDG which is Quality education."
 
-### What Is RAG-LLM?
+### What Is **RAG-LLM**?
 - Retrieval Augmented Generation (RAG) is a structural method designed to enhance the performance of large language model (LLM) applications by utilizing specialized data. This process involves fetching documents or information pertinent to a specific question or task and supplying them as context for the LLM. RAG has proven effective in applications such as support chatbots and question-and-answer systems that require current information or access to specialized knowledge in a particular field. (databricks.com)
 
 # Settup Requirements
