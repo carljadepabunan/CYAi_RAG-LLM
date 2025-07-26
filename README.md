@@ -5,9 +5,7 @@
 ### What Is CYAi?
 - It is a chatbot uses _RAG-LLM_ technology focuses on developing students knowledge, students can upload PDF files and chat with CYAi about the PDF files they upload.
 - CYAi means; C-carl, Y-yousif, A-arth, Ai-Artificial intelligence. Carl, Yousif, and Arth was the three programmers developed CYAi
-
-fun fact:
-            
+- fun fact:
             "CYAi is our _AI6100-AI Prompt Engineering Course "By AMA University"_
             final project and it was inspired on one of the United Nation SDG which
             is Quality education."
