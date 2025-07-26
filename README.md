@@ -22,11 +22,11 @@
    3. Install Git
    4. Install Visual Studio Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools
 
-            Open The Downloaded "vs_BuildTools"
-            Select Desktop Development with C++ and Select this:
-            Windows 10 SDK or Windows 11 SDK (it depends on your computer windows version)
-            MSVC v142 - VS 2019 C++ x64/x86 build tools (or later)
-            Click Install
+            a. Open The Downloaded "vs_BuildTools"
+            b. Select Desktop Development with C++ and Select this:
+            c. Windows 10 SDK or Windows 11 SDK (it depends on your computer windows version)
+            d. MSVC v142 - VS 2019 C++ x64/x86 build tools (or later)
+            e. Click Install
 ### B. Cloning The Repository
    1. Open Visual Studio Code
    2. Create Or Upload Folder
