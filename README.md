@@ -18,15 +18,15 @@
 ### 📍 What Is **RAG-LLM**?
 - Retrieval Augmented Generation (RAG) is a structural method designed to enhance the performance of large language model (LLM) applications by utilizing specialized data. This process involves fetching documents or information pertinent to a specific question or task and supplying them as context for the LLM. RAG has proven effective in applications such as support chatbots and question-and-answer systems that require current information or access to specialized knowledge in a particular field. (databricks.com)
 ### 📍 Technology Used
-- Streamlit: 🌟 A powerful framework for building interactive web applications, allowing users to easily upload PDF files and interact with the AI.
-- Langchain: 🔗 A library designed for building applications with language models, enabling seamless integration of various components for enhanced functionality.
-- Langchain Community: 🌐 An extension of Langchain that provides additional tools and resources for building language model applications.
-- python-dotenv: 📦 A library for managing environment variables, making it easy to configure settings and keep sensitive information secure.
-- Transformers: 🤖 Provides access to a wide range of pre-trained language models, enabling the chatbot to understand and generate human-like responses based on uploaded content.
-- Torch: 🔥 A deep learning framework that supports tensor computations and is essential for running models from the Transformers library.
-- Sentence-Transformers: 🧠 A library for generating sentence embeddings, enhancing the chatbot's ability to understand and process user queries.
-- faiss-cpu: ⚙️ A library for efficient similarity search and clustering of dense vectors, improving the chatbot's performance in retrieving relevant information.
-- pyMuPDF: 📄 A library for reading and extracting text from PDF files, helping the application retrieve relevant information from user uploads.
+- **Streamlit**: 🌟 A powerful framework for building interactive web applications, allowing users to easily upload PDF files and interact with the AI.
+- **Langchain**: 🔗 A library designed for building applications with language models, enabling seamless integration of various components for enhanced functionality.
+- **Langchain Communit**y: 🌐 An extension of Langchain that provides additional tools and resources for building language model applications.
+- **python-doten**v: 📦 A library for managing environment variables, making it easy to configure settings and keep sensitive information secure.
+- **Transformers**: 🤖 Provides access to a wide range of pre-trained language models, enabling the chatbot to understand and generate human-like responses based on uploaded content.
+- **Torch**: 🔥 A deep learning framework that supports tensor computations and is essential for running models from the Transformers library.
+- **Sentence-Transformers**: 🧠 A library for generating sentence embeddings, enhancing the chatbot's ability to understand and process user queries.
+- **faiss-cpu**: ⚙️ A library for efficient similarity search and clustering of dense vectors, improving the chatbot's performance in retrieving relevant information.
+- **pyMuPDF**: 📄 A library for reading and extracting text from PDF files, helping the application retrieve relevant information from user uploads.
 
 # 🟢 Settup Requirements
 - Python: 3.13.+ https://www.python.org/downloads/release/python-3130
