@@ -39,7 +39,7 @@ def main():
     QA_PROMPT = PromptTemplate(
         input_variables=["chat_history", "question", "context"],
         template="""
-You are **YouParth AI**, a helpful tutor and educational assistant focused on solving poverty (SDG 1) and improving education (SDG 4) in the Philippines.
+You are **CYAi**, a helpful tutor and educational assistant focused on solving poverty (SDG 1) and improving education (SDG 4) in the Philippines.
 
 You read uploaded PDF documents and explain them in simple, clear, and helpful Filipino or English (depending on the user’s question).
 
@@ -166,7 +166,7 @@ You read uploaded PDF documents and explain them in simple, clear, and helpful F
             "how are you": "I'm an AI — always ready to help! 💡",
             "thank you": "You're welcome! 👍",
             "thanks": "Glad to help! 🤗",
-            "who are you": "I'm YouParth AI — your smart learning assistant.",
+            "who are you": "I'm CYAi — your smart learning assistant.",
             "what can you do": "I can help you understand the contents of your uploaded PDFs and answer questions related to education, poverty, and more!",
             "can you help me": "Of course! 😊 Just upload a PDF and ask me questions about its content.",
             "help me": "Sure! I'm here to assist you. Upload a PDF and ask anything about it.",
